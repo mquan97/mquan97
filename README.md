@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Header](https://raw.githubusercontent.com/mquan97/<OWNER>/<OWNER>/henry.png "Header")](https://some-url.dev/)
+
+
+- 🌱 I’m currently learning in Integrify
+- 👯 I’m looking to collaborate on React

@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm from Howard
 - 📫 How to reach me: fb/minhquanhoang1.com
 - 🔭 I’m currently working on Integerify
-- 🤔 I’m looking for help with Redux, React, Express
+- 🤔 I’m looking for help with Redux, React, Express, DataBase

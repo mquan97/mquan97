@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hello! WELCOME EVERYONE!
 
-Here
+Here we
 
 - 🌱 I’m currently learning in Integrify
 - 👯 I’m looking to collaborate on React

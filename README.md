@@ -22,6 +22,8 @@ WELCOME EVERYONE!
 
 Here we are again!
 
+Let's
+
 - 🌱 I’m currently learning in Integrify
 - 👯 I’m looking to collaborate on React
 - ⚡ Fun fact: I'm from Howard

@@ -22,7 +22,7 @@ WELCOME EVERYONE!
 
 Here we are again!
 
-Let's goo
+Let's goo now!!
 
 - 🌱 I’m currently learning in Integrify
 - 👯 I’m looking to collaborate on React

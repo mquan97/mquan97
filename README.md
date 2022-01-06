@@ -20,8 +20,6 @@ Hello!
 
 WELCOME EVERYONE!
 
-Here we are again!
-
 Let's goo now!!
 
 - 🌱 I’m currently learning in Integrify

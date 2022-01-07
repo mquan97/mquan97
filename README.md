@@ -24,7 +24,7 @@ Let's goo now!!
 
 - 🌱 I’m currently learning in Integrify
 - 👯 I’m looking to collaborate on React
-- ⚡ Fun fact: I'm from Howard
+- ⚡ Fun fact: I'm from Howard, a velho
 - 📫 How to reach me: fb/minhquanhoang1.com
 - 🔭 I’m currently working on Integerify
 - 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......

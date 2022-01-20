@@ -20,7 +20,6 @@ Hello!
 
 WELCOME EVERYONE!
 
-Let's goo now!! !
 
 - 🌱 I’m currently learning in Integrify
 - 👯 I’m looking to collaborate on React
@@ -29,6 +28,6 @@ Let's goo now!! !
 - 🔭 I’m currently working on Integerify
 - 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......
 - 💬 Ask me about anything you want ...
-- 😄 Pronouns:
+- 😄 Pronouns: 
 
 README.md

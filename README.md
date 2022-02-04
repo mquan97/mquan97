@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-WELCOME EVERYONE!
+WELCOME EVERYONE! 
 
 
-- 🌱 I’m currently learning in Integrify
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on React
 - ⚡ Fun fact: I'm from Howard, a velho
 - 📫 How to reach me: fb/minhquanhoang1.com

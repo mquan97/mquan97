@@ -25,7 +25,7 @@ WELCOME EVERYONE!
 - 📫 How to reach me: fb/minhquanhoang1.com
 - 🔭 I’m currently working on Integerify
 - 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......
-- 💬 Ask me about anything you want ...
+- 💬 Ask me about anything you want :)
 - 😄 Pronouns: 
 
 README.md

@@ -26,6 +26,6 @@ WELCOME EVERYONE!
 - 🔭 I’m currently working on Integerify
 - 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......
 - 💬 Ask me about anything you want :)
-- 😄 Pronouns: aas
+- 😄 Pronouns:
 
 README.md

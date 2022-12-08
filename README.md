@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm funny yayyss  
+
 -->
 
 
@@ -26,6 +27,6 @@ WELCOME EVERYONE!
 - 🔭 I’m currently working on Integerify
 - 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......
 - 💬 Ask me about anything you want
-- 😄 Pronouns:
+- 😄 Pronouns: haha
 
 README.md

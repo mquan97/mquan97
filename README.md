@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hei there 👋
 
 <!--
 **mquan97/mquan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,21 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm funny yayyss  
+- ⚡ Fun fact: I'm funny yayyss
 
 -->
 
+## It's Quan here!
 
-WELCOME EVERYONE! 
-
-
-- 🌱 I’m currently learning Integrify
+- 🌱 I’m currently working at Kassavirtanen as Front-end developer
+- 😄 I’m farmiliar with React, TypeScript, Redux, Express, GraphQL, MongoDB, Azure, AWS and web security.
+- ⚡ Fun fact: I can hold breath more than a minute.
+- 📫 How to reach me: https://www.linkedin.com/in/quan-hoang-080297/
 - 👯 I’m looking to collaborate on React
-- ⚡ Fun fact: I'm from Howard, a velho
-- 📫 How to reach me: fb/minhquanhoang1.com
-- 🔭 I’m currently working on Integerify
-- 🤔 I’m looking for help with Redux, React, Express, DataBase, SQL, security, .......
-- 💬 Ask me about anything you want
-- 😄 Pronouns: haha
-
-README.md
+- 💬 Follow me here: https://www.instagram.com/minh_quaan/ or here, this Github :>

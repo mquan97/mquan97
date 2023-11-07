@@ -1,4 +1,4 @@
-### Hei there 👋
+## Hei there 👋
 
 <!--
 **mquan97/mquan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-#### It's Quan here!
+### It's Quan here!
 
 - 🌱 I’m currently working at Kassavirtanen as Front-end developer
 - 😄 I’m farmiliar with React, TypeScript, Redux, Express, GraphQL, MongoDB, Azure, AWS and web security.

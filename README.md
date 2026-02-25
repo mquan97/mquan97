@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## It's Quan here!
 
-- 🌱 I’m currently working at Kassavirtanen as Front-end developer
+- 🌱 I’m currently looking for job as Front-end developer
 - 😄 I’m farmiliar with React, TypeScript, Redux, Express, GraphQL, MongoDB, Azure, AWS and web security.
 - ⚡ Fun fact: I can hold breath more than a minute.
 - 📫 How to reach me: https://www.linkedin.com/in/quan-hoang-080297/

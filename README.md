@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## It's Quan here!
 
 - 🌱 I’m currently looking for job as full-stack developer
-- 😄 I’m farmiliar with React, TypeScript, Redux, Express, GraphQL, MongoDB, Azure, AWS and web security.
+- 😄 I’m farmiliar with React, TypeScript, Redux, Express, Java, Spring boot, Dotnet, GraphQL, MongoDB, Azure, AWS and web security.
 - ⚡ Fun fact: I can hold breath more than a minute.
 - 📫 How to reach me: https://www.linkedin.com/in/quan-hoang-080297/
 - 👯 I’m looking to collaborate on React
